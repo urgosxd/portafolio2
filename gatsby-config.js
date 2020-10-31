@@ -21,16 +21,12 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: "Poppins",
-            variants: ["300", "400", "500", "600", "700", "800", "900"],
-            family: "Proxima Nova",
-            variants: ["300", "400", "500", "600", "700", "800", "900"],
-          },
+          `Poppins\:300,400,500,600,700`, // you can also specify font weights and styles
         ],
+        display: "swap",
       },
     },
     `gatsby-transformer-sharp`,
