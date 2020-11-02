@@ -31,3 +31,5 @@ Según la **Teoría de las inteligencias múltiples** de **Howard Gardner** pode
 – **Inteligencia intrapersonal** : Es nuestra capacidad de relacionarnos con nosotros mismos, entender lo que hacemos y valorar nuestras propias acciones.
 
 – **Inteligencia naturalista** : Consiste en el entendimiento del entorno natural y la observación científica de la naturaleza como la biología, geología o astronomía. Lo importante en la vida es saber en qué somos buenos, cuáles son nuestras fortalezas para desarrollarlas y aprovecharlas al máximo.
+
+`youtube:https://www.youtube.com/watch?v=VRD-KYFumIs`

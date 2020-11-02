@@ -17,3 +17,5 @@ las referencias bibliográficas: una nota más extensa y ordenada alfabéticamen
 Los gestores de citas bibliográficas son herramientas que permiten recopilar bibliografía, organizarla, comentarla o compartirla, utilizarla para la preparación de un manuscrito con vistas a su publicación o incluso adaptar su estilo a las normas de edición de una determinada revista científica. [RefWorks](http://www.refworks.com/refworks/login.asp) es la aplicación recomendada por la UAM para la gestión de bibliografías personales de docentes, investigadores y estudiantes. Las bibliotecas de la UAM ofrecen [cursos de formación](http://biblioteca.uam.es/sc/cursosformacion.html) sobre la elaboración de bibliografías y la utilización de RefWorks.
 
 ![](../images/vancu.jpg)
+
+`youtube:https://www.youtube.com/watch?v=44B_ysAhGzw`

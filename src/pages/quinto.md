@@ -37,3 +37,5 @@ En el aspecto de las preferencias perceptuales, vale la pena retomar el modelo V
 En relación a estos elementos, se sugiere revisar el modelo 4MAT.
 
 Adicionalmente al modelo Dunn y Dunn, junto con Gary Price, desarrollaron un cuestionario al que llamaron\_ \_Learning Styles Inventory o LSI (Inventario de estilos de aprendizaje). Este cuestionario permite identificar los elementos que determinada persona considera importante para aprender y por lo tanto su estilo de aprendizaje.
+
+`youtube:https://www.youtube.com/watch?v=Ko-Q0bMcnO4&t=2s`
