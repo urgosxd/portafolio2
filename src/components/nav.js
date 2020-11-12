@@ -25,7 +25,7 @@ export const NAV = () => (
             <strong>Jhayr Chambilla Robles</strong>
             <br />
             <br />
-            <strong>Naike sharon Macha Costillas</strong>
+            <strong>Naike sharon Machaca Costillas</strong>
             <br />
             <br />
             <strong>Wilbert Anhelo Huacac Cárdenas</strong>
