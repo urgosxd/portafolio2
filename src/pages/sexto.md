@@ -41,3 +41,5 @@ son la expresión del contenido de un texto en forma breve y resultan de gran ut
 • Separar las ideas en apartados para facilitar su comprensión.
 • Añadir las ideas secundarias que ayuden a aclarar las principales. Existen varias técnicas para la elaboración de un resumen. Una de ellas es el subrayado de las ideas esenciales. Si se transcriben estas líneas, se redactará un resumen.
 La síntesis requiere de un paso más, que exprese con las propias palabras lo que para el lector haya sido lo más importante. La síntesis es una forma de resumen que va de lo simple a lo complejo, utilizando palabras propias. Para la exposición de los trabajos se puede hacer uso de una ficha de estudio, la cual se elabora en tarjetas blancas de 18 x 12.5 cm y debe contener los siguientes datos: tema, síntesis o resumen de la consulta, bibliografía o referencias de las fuentes de consulta; estas pueden ser revistas, periódicos, folletos, libros, etc. En el ángulo superior derecho se anota el nombre del tema.
+
+`youtube:https://www.youtube.com/watch?v=HdjhOOgCxH0`

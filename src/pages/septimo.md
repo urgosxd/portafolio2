@@ -41,3 +41,5 @@ Los organizadores gráficos son técnicas activas de aprendizaje por las que se 
 **El peine:**Incorpora un concepto de todas sus variantes.
 **Cancha de tenis:** Analiza el género dramático. En el sector A se anota al protagonista, en el B al antagonista. En A1 y A2 características, relaciones, aliados, etc. Del p. y en B1 y B2, lo mismo que en A. Los puntos o elementos comunes, se pueden anotar en C y D.
 **Infomapa:** Es una clase de mapa que proporciona abundante información visual y que se construye sin mayores conocimientos técnico s sobre cartografía. Por sus características, fácil comprensión, impacto visual y abundantes ilustraciones, constituye un tipo de representación gráfica, que potencia el pensamiento visual. Como técnica didáctica, puede emplearse para el estudio de las Ciencias Naturales, la Biología o las Ciencias Sociales, como la Historia y naturalmente, la Geografía.
+
+`youtube:https://www.youtube.com/watch?v=aT3OZEUfEFs`
