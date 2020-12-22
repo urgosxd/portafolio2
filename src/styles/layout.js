@@ -59,6 +59,7 @@ export const LayoutWrapper = styled.div`
     position: relative;
     height: 250px;
     width: 400px;
+    border-radius: 5%;
   }
 
   //post
