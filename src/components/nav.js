@@ -30,6 +30,8 @@ export const NAV = () => (
             <br />
             <strong>Wilbert Anhelo Huacac Cárdenas</strong>
             <br />
+            <strong>Luis Miguel Arzubialde</strong>
+            <br />
           </Popover.Content>
         </Popover>
       }
